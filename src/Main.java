@@ -1,5 +1,4 @@
 public class Main {
-// 明日 http://d.hatena.ne.jp/nowokay/20130506 ためす
     public static void main(String[] args) {
         System.out.println("Excution time:"+benchMark()+"[sec]");
     }
